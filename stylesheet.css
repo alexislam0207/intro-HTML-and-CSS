@@ -1,0 +1,39 @@
+body{
+    background-color:antiquewhite;
+}
+
+img{
+    width: 50%;
+    border-radius: 50%;
+    border: 5px solid burlywood;
+}
+
+.heading{
+    font-family: Papyrus, "Lucida Handwriting", fantasy;
+}
+
+.link{
+    font-size: x-large;
+}
+
+ol{
+    color:darkgreen;
+}
+
+ul{
+    color: darkgreen;
+}
+
+h1{
+    text-align: center;
+    border: 5px solid burlywood;
+    margin: 20px;
+    padding: 5px;
+}
+*{
+    font-family: Monaco, "Lucida Handwriting", fantasy;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
